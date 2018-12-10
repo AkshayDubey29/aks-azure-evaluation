@@ -17,8 +17,6 @@ A `Service Principal` is also created for use by the Kubernetes cluster.
 - Azure CLI
 - Community Kubernetes provider [v1.0.7](https://github.com/sl1pm4t/terraform-provider-kubernetes/releases/tag/v1.0.7-custom)
 
-*Note*: Currently the Hashicorp maintained k8s provider is missing some k8s resource types, such as Daemon-Sets, luckily there is a fork maintained with these additional resources. In future, once the [hashicorp provider is updated](https://github.com/terraform-providers/terraform-provider-kubernetes/pull/101), this requirement can be dropped. 
-
 ### Running
 
 1. Login to the Azure CLI `az login`
