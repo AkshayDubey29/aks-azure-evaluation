@@ -1,7 +1,4 @@
 # Kubernetes on Azure using Terraform
-
-[![Build Status](https://travis-ci.org/lawrencegripper/azure-aks-terraform.svg?branch=master)](https://travis-ci.org/lawrencegripper/azure-aks-terraform)
-
 This project aims to show a simple example of how you can setup a fully featured k8s cluster on Azure using terraform. 
 
 ## What does it create? 
